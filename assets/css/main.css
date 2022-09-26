@@ -2671,6 +2671,11 @@ span.service_page_pill {
     width: 100%;
 }
 
+.product_veiw_details_wrapper {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+
 .apple_resaler_content_logo img {
     max-width: 100%;
 }

@@ -13,7 +13,7 @@
         grid-template-columns: repeat(2, 1fr);
     }
     .product_veiw_details_wrapper {
-        /* grid-template-columns: repeat(2, 1fr); */
+        grid-template-columns: repeat(2, 1fr);
     }
 
     .why_chose_software_wrapper{
@@ -161,7 +161,7 @@
         width: 45%;
     }
     .product_veiw_details_wrapper {
-        /* grid-template-columns: repeat(3, 1fr); */
+        grid-template-columns: repeat(3, 1fr);
     }
 
     .why_chose_software_wrapper{
@@ -315,6 +315,10 @@
 
     .dl-menuwrapper{
         display: block;
+    }
+
+    .product_veiw_details_wrapper {
+        grid-template-columns: repeat(3, 1fr);
     }
 
 }
